@@ -1,0 +1,7 @@
+@brandColor: #2158a5;
+@secondaryColor: #d95999;
+@navbarBackgroundImage: linear-gradient(140deg, #2158a5, #2158a5 35%, #d95999);
+// @navbarBackgroundImage: url("/static/images/your_image.png");
+@navbarBackgroundColor: @brandColor;
+@footerLightColor: @brandColor;
+@footerDarkColor: #65656C;
